@@ -1,5 +1,5 @@
 ✨ Hello Everyone! ✨ 
-- 👋 Hi, I’m @zys-sen
+- 👋 Hi, I’m Azad.
 - 👀 I’m interested in Mathematics, literature, philosophy, programming & Photography, antiques, music, movies.
 - 🌱 I’m currently learning C++, Advanced mathematics, HTML, MATLAB, Python.
 - 💞️ I’m looking to collaborate on interesting programs.
