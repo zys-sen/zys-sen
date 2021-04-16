@@ -1,7 +1,7 @@
 ✨ Hello! ✨ 
-- 👋 Hi, I’m philo.
+<!--- 👋 Hi, I’m philo.
 - 👀 I’m interested in Mathematics, literature, philosophy, programming & Photography, antiques, music, movies.
-- 🌱 I’m currently learning C++, MATLAB, Python, algorithm
+- 🌱 I’m currently learning C++, MATLAB, Python, algorithm -->
 - 📫 How to reach me -- [here is my website](https://zys-sen.github.io/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zys-sen&show_icons=true&theme=merko)
